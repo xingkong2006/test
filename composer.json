@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "files":[
-            "src/lib/helper.php"
+            "src/helper.php"
         ],
         "psr-4": {
             "Xingkong2006\\Test\\": "src/"
