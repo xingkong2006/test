@@ -1,7 +1,7 @@
 {
     "name": "xingkong2006/test",
     "description": "test description",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "files":[
