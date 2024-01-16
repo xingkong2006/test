@@ -1,0 +1,22 @@
+{
+    "name": "xingkong2006/test",
+    "description": "test description",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "files":[
+            "src/lib/helper.php"
+        ],
+        "psr-4": {
+            "Xingkong2006\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhao",
+            "email": "409097512@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
